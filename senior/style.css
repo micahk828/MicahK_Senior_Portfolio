@@ -1001,6 +1001,18 @@ body {
   color: var(--primary-light);
 }
 
+.validator-badge-wrap {
+  margin-top: 18px;
+}
+
+.validator-badge {
+  display: block;
+  margin: 0 auto;
+  width: 120px;
+  max-width: 40%;
+  opacity: 0.95;
+}
+
 .game-dev {
   background: var(--dark-light);
 }
